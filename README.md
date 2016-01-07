@@ -1,12 +1,14 @@
 # Header-Parallax
 Parallax Effect for background header images
 
-##JS Include
+[View Demo!](http://erick-olivares.com/goodies/header-parallax/demo/index.html)
+
+###JS Include
 ```
 <script src="parallax.js"></script>
 ```
 
-###HTML Setup
+####HTML Setup
 target div must have "parallax" class
 
 ```
@@ -14,7 +16,7 @@ target div must have "parallax" class
 </section>
 ```
 
-###CSS Setup
+####CSS Setup
 
 ```
 .parallax {
