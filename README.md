@@ -1,7 +1,12 @@
 # Header-Parallax
 Parallax Effect for background header images
 
-##HTML Setup
+##JS Include
+```
+<script src="parallax.js"></script>
+```
+
+###HTML Setup
 target div must have "parallax" class
 
 ```
@@ -9,7 +14,7 @@ target div must have "parallax" class
 </section>
 ```
 
-##CSS Setup
+###CSS Setup
 
 ```
 .parallax {
